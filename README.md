@@ -4,7 +4,7 @@ A modern, responsive e-commerce web application built with **Next.js 16**, **Rea
 
 ---
 [DEMO](https://simple-store-sooty-eight.vercel.app/)
-<img width="1883" height="894" alt="Image" src="https://github.com/user-attachments/assets/fea31979-dcd7-4af0-abc1-0cc848d6d500" />
+<img width="1884" height="912" alt="Image" src="https://github.com/user-attachments/assets/c5795111-b5fb-42d5-af36-7de0758716e4" />
 
 <img width="1789" height="879" alt="Image" src="https://github.com/user-attachments/assets/4d4c1e29-bab1-447d-8365-d982051bba44" />
 
