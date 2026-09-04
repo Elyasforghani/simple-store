@@ -3,6 +3,7 @@
 A modern, responsive e-commerce web application built with **Next.js 16**, **React 19**, **Tailwind CSS v4**, and **Zustand** for state management. The app fetches real-time product data from DummyJSON, features dynamic product details, an interactive shopping cart, and theme switching (Light / Dark mode).
 
 ---
+[DEMO](https://simple-store-sooty-eight.vercel.app/)
 
 ## ✨ Features
 
